@@ -1,4 +1,6 @@
-bamazonCustomer
+BamazonCustomer
+
+![image](https://user-images.githubusercontent.com/54162286/69511760-12a1c200-0f07-11ea-9a32-aa29542cfc07.png)
 
 
 Week 12 Homework
