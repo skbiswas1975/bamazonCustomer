@@ -5,14 +5,14 @@ BamazonCustomer
 
 Week 12 Homework
 Requirements
-nodejs 9.11.1
+nodejs 12.13.0
 mysql 8.0.11
 Installation
 Get it from GitHub
 GitHub
 
 Or Install the NPM package from npmjs
-npm i keith66fuller/bamazoncustomer
+npm i skbiswas1975/bamazonCustomer
 
 Create database and table and seed the table.
 mysql -u username -p database_name < db/products_seed.sql
